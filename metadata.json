@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise AI Recruitment Assistant",
+  "description": "Enterprise-grade recruitment platform using Generative AI, RAG, and semantic matching for resume screening, candidate ranking, and skill gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
